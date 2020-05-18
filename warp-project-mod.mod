@@ -1,6 +1,3 @@
-#Matthew_Ing_ingmatt1_1005057260
-#Scott_Oxholm_oxholmsc_1005106788
-
 reset;
 
 set Product_Num;
