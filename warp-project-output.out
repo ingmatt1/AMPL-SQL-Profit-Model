@@ -1,0 +1,1133 @@
+(a) Please see attached .mod and .run files
+
+(b) Optimal objective function value: 11910371.183
+
+(c)(i) Optimal x values: 
+
+	x[SH001] = 0.00000
+	x[SH002] = 448.85714
+	x[SH003] = 0.00000
+	x[SH004] = 0.00000
+	x[SH005] = 43.51668
+	x[SH006] = 0.00000
+	x[SH007] = 0.00000
+	x[SH008] = 0.00000
+	x[SH009] = 27.00000
+	x[SH010] = 0.00000
+	x[SH011] = 433.42857
+	x[SH012] = 338.81499
+	x[SH013] = 425.42857
+	x[SH014] = 0.00000
+	x[SH015] = 0.00000
+	x[SH016] = 0.00000
+	x[SH017] = 0.00000
+	x[SH018] = 320.39298
+	x[SH019] = 273.24995
+	x[SH020] = 0.00000
+	x[SH021] = 0.00000
+	x[SH022] = 0.00000
+	x[SH023] = 0.00000
+	x[SH024] = 398.71424
+	x[SH025] = 404.28571
+	x[SH026] = 0.00000
+	x[SH027] = 434.00000
+	x[SH028] = 0.00000
+	x[SH029] = 390.00329
+	x[SH030] = 0.00000
+	x[SH031] = 324.29820
+	x[SH032] = 490.85714
+	x[SH033] = 0.00000
+	x[SH034] = 372.57143
+	x[SH035] = 0.00000
+	x[SH036] = 0.00000
+	x[SH037] = 0.00000
+	x[SH038] = 478.57143
+	x[SH039] = 389.42857
+	x[SH040] = 432.85714
+	x[SH041] = 315.34453
+	x[SH042] = 191.01326
+	x[SH043] = 0.00000
+	x[SH044] = 442.28571
+	x[SH045] = 339.04371
+	x[SH046] = 0.00000
+	x[SH047] = 372.78701
+	x[SH048] = 214.15310
+	x[SH049] = 0.00000
+	x[SH050] = 437.42857
+	x[SH051] = 0.00000
+	x[SH052] = 0.00000
+	x[SH053] = 1.08352
+	x[SH054] = 0.00000
+	x[SH055] = 0.00000
+	x[SH056] = 0.00000
+	x[SH057] = 174.90606
+	x[SH058] = 432.00000
+	x[SH059] = 0.00000
+	x[SH060] = 232.01134
+	x[SH061] = 152.84390
+	x[SH062] = 458.28571
+	x[SH063] = 446.00000
+	x[SH064] = 28.69997
+	x[SH065] = 293.76649
+	x[SH066] = 0.00000
+	x[SH067] = 0.00000
+	x[SH068] = 0.00000
+	x[SH069] = 0.00000
+	x[SH070] = 0.00000
+	x[SH071] = 444.28571
+	x[SH072] = 17.65745
+	x[SH073] = 210.06155
+	x[SH074] = 0.00000
+	x[SH075] = 0.00000
+	x[SH076] = 158.80390
+	x[SH077] = 342.29495
+	x[SH078] = 407.14286
+	x[SH079] = 0.00000
+	x[SH080] = 409.42857
+	x[SH081] = 163.70285
+	x[SH082] = 226.19255
+	x[SH083] = 129.80758
+	x[SH084] = 0.00000
+	x[SH085] = 0.00000
+	x[SH086] = 0.00000
+	x[SH087] = 430.00000
+	x[SH088] = 423.42857
+	x[SH089] = 0.00000
+	x[SH090] = 474.57143
+	x[SH091] = 0.00000
+	x[SH092] = 0.00000
+	x[SH093] = 270.34537
+	x[SH094] = 405.36009
+	x[SH095] = 422.28571
+	x[SH096] = 452.57143
+	x[SH097] = 0.00000
+	x[SH098] = 0.00000
+	x[SH099] = 0.00000
+	x[SH100] = 0.00000
+	x[SH101] = 0.00000
+	x[SH102] = 0.00000
+	x[SH103] = 0.00000
+	x[SH104] = 0.00000
+	x[SH105] = 418.00000
+	x[SH106] = 84.63511
+	x[SH107] = 0.00000
+	x[SH108] = 0.00000
+	x[SH109] = 0.00000
+	x[SH110] = 417.14286
+	x[SH111] = 0.00000
+	x[SH112] = 0.00000
+	x[SH113] = 454.28571
+	x[SH114] = 0.00000
+	x[SH115] = 0.00000
+	x[SH116] = 202.37283
+	x[SH117] = 119.99840
+	x[SH118] = 218.05456
+	x[SH119] = 63.34404
+	x[SH120] = 0.00000
+	x[SH121] = 508.28571
+	x[SH122] = 0.00000
+	x[SH123] = 0.00000
+	x[SH124] = 0.00000
+	x[SH125] = 0.00000
+	x[SH126] = 16.46948
+	x[SH127] = 346.17991
+	x[SH128] = 0.00000
+	x[SH129] = 0.00000
+	x[SH130] = 40.00200
+	x[SH131] = 17.90966
+	x[SH132] = 0.00000
+	x[SH133] = 54.00172
+	x[SH134] = 490.28571
+	x[SH135] = 0.00000
+	x[SH136] = 0.00000
+	x[SH137] = 0.00000
+	x[SH138] = 0.00000
+	x[SH139] = 0.00000
+	x[SH140] = 0.00000
+	x[SH141] = 0.00000
+	x[SH142] = 398.85714
+	x[SH143] = 0.00000
+	x[SH144] = 448.85714
+	x[SH145] = 0.00000
+	x[SH146] = 489.14286
+	x[SH147] = 0.00000
+	x[SH148] = 0.00000
+	x[SH149] = 182.11517
+	x[SH150] = 425.42857
+	x[SH151] = 0.00000
+	x[SH152] = 0.00000
+	x[SH153] = 141.06553
+	x[SH154] = 437.14286
+	x[SH155] = 0.00000
+	x[SH156] = 0.00000
+	x[SH157] = 0.00000
+	x[SH158] = 0.00000
+	x[SH159] = 0.00000
+	x[SH160] = 0.00000
+	x[SH161] = 0.00000
+	x[SH162] = 0.00000
+	x[SH163] = 0.00000
+	x[SH164] = 0.00000
+	x[SH165] = 460.00000
+	x[SH166] = 0.00000
+	x[SH167] = 0.00000
+	x[SH168] = 358.72103
+	x[SH169] = 0.00000
+	x[SH170] = 0.00000
+	x[SH171] = 0.00000
+	x[SH172] = 186.89088
+	x[SH173] = 199.36866
+	x[SH174] = 0.00000
+	x[SH175] = 0.00000
+	x[SH176] = 450.28571
+	x[SH177] = 0.00000
+	x[SH178] = 184.64356
+	x[SH179] = 183.80612
+	x[SH180] = 0.00000
+	x[SH181] = 0.00000
+	x[SH182] = 0.00000
+	x[SH183] = 0.00000
+	x[SH184] = 34.93279
+	x[SH185] = 278.73532
+	x[SH186] = 170.71935
+	x[SH187] = 137.59931
+	x[SH188] = 260.73318
+	x[SH189] = 0.00000
+	x[SH190] = 0.00000
+	x[SH191] = 83.46813
+	x[SH192] = 0.00000
+	x[SH193] = 0.00000
+	x[SH194] = 267.52846
+	x[SH195] = 236.84117
+	x[SH196] = 0.00000
+	x[SH197] = 437.42857
+	x[SH198] = 0.00000
+	x[SH199] = 0.00000
+	x[SH200] = 0.00000
+	x[SH201] = 476.28571
+	x[SH202] = 0.00000
+	x[SH203] = 500.57143
+	x[SH204] = 0.00000
+	x[SH205] = 257.39313
+	x[SH206] = 0.00000
+	x[SH207] = 16.80000
+	x[SH208] = 0.00000
+	x[SH209] = 436.57143
+	x[SH210] = 7.55559
+	x[SH211] = 0.00000
+	x[SH212] = 0.00000
+	x[SH213] = 436.85714
+	x[SH214] = 0.00000
+	x[SH215] = 0.00000
+	x[SH216] = 0.00000
+	x[SH217] = 238.32116
+	x[SH218] = 0.00000
+	x[SH219] = 0.00000
+	x[SH220] = 0.00000
+	x[SH221] = 468.28571
+	x[SH222] = 5.43702
+	x[SH223] = 409.14286
+	x[SH224] = 442.57143
+	x[SH225] = 291.35293
+	x[SH226] = 418.85714
+	x[SH227] = 239.08746
+	x[SH228] = 0.00000
+	x[SH229] = 0.00000
+	x[SH230] = 135.56978
+	x[SH231] = 0.00000
+	x[SH232] = 390.88071
+	x[SH233] = 448.57143
+	x[SH234] = 405.14286
+	x[SH235] = 456.73810
+	x[SH236] = 486.48332
+	x[SH237] = 0.00000
+	x[SH238] = 451.42857
+	x[SH239] = 37.43749
+	x[SH240] = 141.74056
+	x[SH241] = 418.57143
+	x[SH242] = 0.00000
+	x[SH243] = 0.00000
+	x[SH244] = 322.79828
+	x[SH245] = 0.00000
+	x[SH246] = 0.00000
+	x[SH247] = 369.47589
+	x[SH248] = 166.49624
+	x[SH249] = 405.42857
+	x[SH250] = 0.00000
+	x[SH251] = 0.00000
+	x[SH252] = 0.00000
+	x[SH253] = 381.14286
+	x[SH254] = 479.42857
+	x[SH255] = 209.10586
+	x[SH256] = 434.28571
+	x[SH257] = 0.00000
+	x[SH258] = 0.00000
+	x[SH259] = 0.00000
+	x[SH260] = 19.77983
+	x[SH261] = 404.84190
+	x[SH262] = 411.14286
+	x[SH263] = 0.00000
+	x[SH264] = 0.00000
+	x[SH265] = 413.14286
+	x[SH266] = 0.00000
+	x[SH267] = 0.00000
+	x[SH268] = 0.00000
+	x[SH269] = 429.42857
+	x[SH270] = 90.16679
+	x[SH271] = 0.00000
+	x[SH272] = 0.00000
+	x[SH273] = 245.04919
+	x[SH274] = 85.25241
+	x[SH275] = 0.00000
+	x[SH276] = 224.85147
+	x[SH277] = 422.85714
+	x[SH278] = 0.00000
+	x[SH279] = 64.35201
+	x[SH280] = 0.00000
+	x[SH281] = 339.49576
+	x[SH282] = 415.14286
+	x[SH283] = 0.00000
+	x[SH284] = 459.28888
+	x[SH285] = 0.00000
+	x[SH286] = 450.57143
+	x[SH287] = 410.28571
+	x[SH288] = 153.38579
+	x[SH289] = 433.26933
+	x[SH290] = 96.60265
+	x[SH291] = 0.00000
+	x[SH292] = 125.59105
+	x[SH293] = 0.00000
+	x[SH294] = 0.00000
+	x[SH295] = 403.42857
+	x[SH296] = 0.00000
+	x[SH297] = 0.00000
+	x[SH298] = 73.39142
+	x[SH299] = 347.49004
+	x[SH300] = 427.42857
+	x[SH301] = 0.00000
+	x[SH302] = 0.00000
+	x[SH303] = 0.00000
+	x[SH304] = 0.00000
+	x[SH305] = 0.00000
+	x[SH306] = 0.00000
+	x[SH307] = 153.03231
+	x[SH308] = 324.47068
+	x[SH309] = 0.00000
+	x[SH310] = 0.00000
+	x[SH311] = 0.00000
+	x[SH312] = 476.85714
+	x[SH313] = 483.42857
+	x[SH314] = 391.14286
+	x[SH315] = 0.00000
+	x[SH316] = 245.24485
+	x[SH317] = 294.29417
+	x[SH318] = 0.00000
+	x[SH319] = 0.00000
+	x[SH320] = 462.28571
+	x[SH321] = 0.00000
+	x[SH322] = 191.82390
+	x[SH323] = 0.00000
+	x[SH324] = 0.00000
+	x[SH325] = 475.14286
+	x[SH326] = 141.25314
+	x[SH327] = 0.00000
+	x[SH328] = 149.35229
+	x[SH329] = 400.00000
+	x[SH330] = 0.00000
+	x[SH331] = 45.29089
+	x[SH332] = 0.00000
+	x[SH333] = 0.00000
+	x[SH334] = 386.57143
+	x[SH335] = 0.00000
+	x[SH336] = 0.00000
+	x[SH337] = 0.00000
+	x[SH338] = 208.72094
+	x[SH339] = 0.00000
+	x[SH340] = 461.16315
+	x[SH341] = 429.42857
+	x[SH342] = 322.81753
+	x[SH343] = 0.00000
+	x[SH344] = 0.00000
+	x[SH345] = 386.63668
+	x[SH346] = 0.00000
+	x[SH347] = 188.85327
+	x[SH348] = 488.85714
+	x[SH349] = 42.00008
+	x[SH350] = 0.00000
+	x[SH351] = 0.00000
+	x[SH352] = 396.57143
+	x[SH353] = 0.00000
+	x[SH354] = 0.00000
+	x[SH355] = 0.00000
+	x[SH356] = 183.21645
+	x[SH357] = 0.00000
+	x[SH358] = 0.00000
+	x[SH359] = 5.61094
+	x[SH360] = 0.00000
+	x[SH361] = 351.65973
+	x[SH362] = 419.42857
+	x[SH363] = 0.00000
+	x[SH364] = 0.00000
+	x[SH365] = 388.25078
+	x[SH366] = 174.80180
+	x[SH367] = 426.98361
+	x[SH368] = 0.00000
+	x[SH369] = 378.00000
+	x[SH370] = 0.00000
+	x[SH371] = 0.00000
+	x[SH372] = 385.37423
+	x[SH373] = 416.57143
+	x[SH374] = 0.00000
+	x[SH375] = 0.00000
+	x[SH376] = 0.00000
+	x[SH377] = 121.94047
+	x[SH378] = 422.57143
+	x[SH379] = 214.61029
+	x[SH380] = 0.00000
+	x[SH381] = 136.52763
+	x[SH382] = 0.00000
+	x[SH383] = 275.92813
+	x[SH384] = 504.57143
+	x[SH385] = 0.00000
+	x[SH386] = 0.00000
+	x[SH387] = 0.00000
+	x[SH388] = 0.00000
+	x[SH389] = 0.00000
+	x[SH390] = 0.00000
+	x[SH391] = 103.46551
+	x[SH392] = 0.00000
+	x[SH393] = 0.00000
+	x[SH394] = 0.00000
+	x[SH395] = 324.31191
+	x[SH396] = 0.00000
+	x[SH397] = 0.00000
+	x[SH398] = 0.00000
+	x[SH399] = 442.85714
+	x[SH400] = 0.00000
+	x[SH401] = 0.00000
+	x[SH402] = 204.80184
+	x[SH403] = 0.00000
+	x[SH404] = 0.00000
+	x[SH405] = 0.00000
+	x[SH406] = 0.00000
+	x[SH407] = 437.42857
+	x[SH408] = 0.00000
+	x[SH409] = 0.00000
+	x[SH410] = 288.51029
+	x[SH411] = 420.85714
+	x[SH412] = 98.91351
+	x[SH413] = 0.00000
+	x[SH414] = 0.00000
+	x[SH415] = 438.28571
+	x[SH416] = 0.00000
+	x[SH417] = 482.00000
+	x[SH418] = 328.30252
+	x[SH419] = 180.70734
+	x[SH420] = 43.62329
+	x[SH421] = 416.57143
+	x[SH422] = 0.00000
+	x[SH423] = 466.00000
+	x[SH424] = 0.00000
+	x[SH425] = 458.57143
+	x[SH426] = 0.00000
+	x[SH427] = 477.42857
+	x[SH428] = 0.00000
+	x[SH429] = 142.58462
+	x[SH430] = 430.00000
+	x[SH431] = 0.00000
+	x[SH432] = 27.34037
+	x[SH433] = 0.00000
+	x[SH434] = 0.00000
+	x[SH435] = 113.68483
+	x[SH436] = 0.00000
+	x[SH437] = 0.00000
+	x[SH438] = 63.05948
+	x[SH439] = 0.00000
+	x[SH440] = 0.00000
+	x[SH441] = 0.00000
+	x[SH442] = 0.00000
+	x[SH443] = 0.00000
+	x[SH444] = 152.13578
+	x[SH445] = 462.85714
+	x[SH446] = 0.00000
+	x[SH447] = 458.85714
+	x[SH448] = 0.00000
+	x[SH449] = 305.30146
+	x[SH450] = 0.00000
+	x[SH451] = 350.69542
+	x[SH452] = 0.00000
+	x[SH453] = 470.85714
+	x[SH454] = 0.00000
+	x[SH455] = 11.86211
+	x[SH456] = 430.00000
+	x[SH457] = 184.48459
+	x[SH458] = 246.11564
+	x[SH459] = 242.57398
+	x[SH460] = 0.00000
+	x[SH461] = 0.00000
+	x[SH462] = 130.83786
+	x[SH463] = 0.00000
+	x[SH464] = 482.57143
+	x[SH465] = 273.51508
+	x[SH466] = 440.85714
+	x[SH467] = 225.41326
+	x[SH468] = 41.85808
+	x[SH469] = 30.24884
+	x[SH470] = 287.75005
+	x[SH471] = 421.42857
+	x[SH472] = 227.04985
+	x[SH473] = 357.42857
+	x[SH474] = 266.58560
+	x[SH475] = 0.00000
+	x[SH476] = 416.85714
+	x[SH477] = 304.09595
+	x[SH478] = 336.16040
+	x[SH479] = 488.28571
+	x[SH480] = 0.00000
+	x[SH481] = 0.00000
+	x[SH482] = 76.61706
+	x[SH483] = 434.57143
+	x[SH484] = 0.00000
+	x[SH485] = 0.00000
+	x[SH486] = 0.00000
+	x[SH487] = 16.97619
+	x[SH488] = 0.00000
+	x[SH489] = 441.42857
+	x[SH490] = 537.14286
+	x[SH491] = 288.30709
+	x[SH492] = 111.26562
+	x[SH493] = 0.00000
+	x[SH494] = 64.90476
+	x[SH495] = 0.00000
+	x[SH496] = 0.00000
+	x[SH497] = 450.28571
+	x[SH498] = 268.76683
+	x[SH499] = 55.25130
+	x[SH500] = 425.42857
+	x[SH501] = 420.57143
+	x[SH502] = 0.00000
+	x[SH503] = 0.00000
+	x[SH504] = 0.00000
+	x[SH505] = 0.00000
+	x[SH506] = 0.00000
+	x[SH507] = 94.94076
+	x[SH508] = 426.85714
+	x[SH509] = 0.00000
+	x[SH510] = 0.00000
+	x[SH511] = 398.00000
+	x[SH512] = 82.63242
+	x[SH513] = 279.81303
+	x[SH514] = 396.85714
+	x[SH515] = 0.00000
+	x[SH516] = 425.14286
+	x[SH517] = 0.00000
+	x[SH518] = 0.00000
+	x[SH519] = 0.00000
+	x[SH520] = 140.04667
+	x[SH521] = 250.56255
+	x[SH522] = 0.00000
+	x[SH523] = 86.63822
+	x[SH524] = 135.80662
+	x[SH525] = 171.16336
+	x[SH526] = 0.00000
+	x[SH527] = 147.34707
+	x[SH528] = 0.00000
+	x[SH529] = 0.00000
+	x[SH530] = 0.00000
+	x[SH531] = 0.00000
+	x[SH532] = 475.42857
+	x[SH533] = 0.00000
+	x[SH534] = 405.05206
+	x[SH535] = 440.57143
+	x[SH536] = 112.08903
+	x[SH537] = 58.59154
+	x[SH538] = 0.00000
+	x[SH539] = 0.00000
+	x[SH540] = 71.69849
+	x[SH541] = 0.00000
+	x[SH542] = 0.00000
+	x[SH543] = 275.08219
+	x[SH544] = 0.00000
+	x[SH545] = 0.00000
+	x[SH546] = 260.44327
+	x[SH547] = 17.86257
+	x[SH548] = 0.00000
+	x[SH549] = 47.08969
+	x[SH550] = 0.00000
+	x[SH551] = 0.00000
+	x[SH552] = 133.52573
+	x[SH553] = 5.33346
+	x[SH554] = 0.00000
+	x[SH555] = 0.00000
+	x[SH556] = 423.14286
+	x[SH557] = 470.28571
+(c)(ii) Optimal L values: 
+
+	L[1] = 0
+	L[2] = 1
+	L[3] = 1
+	L[4] = 1
+	L[5] = 0
+	L[6] = 1
+	L[7] = 1
+	L[8] = 0
+
+(d) The binding constraints are: 
+
+	demandMakeDifference[SH002]
+	demandMakeDifference[SH011]
+	demandMakeDifference[SH013]
+	demandMakeDifference[SH025]
+	demandMakeDifference[SH027]
+	demandMakeDifference[SH032]
+	demandMakeDifference[SH034]
+	demandMakeDifference[SH038]
+	demandMakeDifference[SH039]
+	demandMakeDifference[SH040]
+	demandMakeDifference[SH044]
+	demandMakeDifference[SH050]
+	demandMakeDifference[SH058]
+	demandMakeDifference[SH062]
+	demandMakeDifference[SH063]
+	demandMakeDifference[SH071]
+	demandMakeDifference[SH078]
+	demandMakeDifference[SH080]
+	demandMakeDifference[SH087]
+	demandMakeDifference[SH088]
+	demandMakeDifference[SH090]
+	demandMakeDifference[SH095]
+	demandMakeDifference[SH096]
+	demandMakeDifference[SH105]
+	demandMakeDifference[SH110]
+	demandMakeDifference[SH113]
+	demandMakeDifference[SH121]
+	demandMakeDifference[SH134]
+	demandMakeDifference[SH142]
+	demandMakeDifference[SH144]
+	demandMakeDifference[SH146]
+	demandMakeDifference[SH150]
+	demandMakeDifference[SH154]
+	demandMakeDifference[SH165]
+	demandMakeDifference[SH176]
+	demandMakeDifference[SH197]
+	demandMakeDifference[SH201]
+	demandMakeDifference[SH203]
+	demandMakeDifference[SH209]
+	demandMakeDifference[SH213]
+	demandMakeDifference[SH221]
+	demandMakeDifference[SH223]
+	demandMakeDifference[SH224]
+	demandMakeDifference[SH226]
+	demandMakeDifference[SH233]
+	demandMakeDifference[SH234]
+	demandMakeDifference[SH238]
+	demandMakeDifference[SH241]
+	demandMakeDifference[SH249]
+	demandMakeDifference[SH253]
+	demandMakeDifference[SH254]
+	demandMakeDifference[SH256]
+	demandMakeDifference[SH262]
+	demandMakeDifference[SH265]
+	demandMakeDifference[SH269]
+	demandMakeDifference[SH277]
+	demandMakeDifference[SH282]
+	demandMakeDifference[SH286]
+	demandMakeDifference[SH287]
+	demandMakeDifference[SH295]
+	demandMakeDifference[SH300]
+	demandMakeDifference[SH312]
+	demandMakeDifference[SH313]
+	demandMakeDifference[SH314]
+	demandMakeDifference[SH320]
+	demandMakeDifference[SH325]
+	demandMakeDifference[SH329]
+	demandMakeDifference[SH334]
+	demandMakeDifference[SH341]
+	demandMakeDifference[SH348]
+	demandMakeDifference[SH352]
+	demandMakeDifference[SH362]
+	demandMakeDifference[SH369]
+	demandMakeDifference[SH373]
+	demandMakeDifference[SH378]
+	demandMakeDifference[SH384]
+	demandMakeDifference[SH399]
+	demandMakeDifference[SH407]
+	demandMakeDifference[SH411]
+	demandMakeDifference[SH415]
+	demandMakeDifference[SH417]
+	demandMakeDifference[SH421]
+	demandMakeDifference[SH423]
+	demandMakeDifference[SH425]
+	demandMakeDifference[SH427]
+	demandMakeDifference[SH430]
+	demandMakeDifference[SH445]
+	demandMakeDifference[SH447]
+	demandMakeDifference[SH453]
+	demandMakeDifference[SH456]
+	demandMakeDifference[SH464]
+	demandMakeDifference[SH466]
+	demandMakeDifference[SH471]
+	demandMakeDifference[SH473]
+	demandMakeDifference[SH476]
+	demandMakeDifference[SH479]
+	demandMakeDifference[SH483]
+	demandMakeDifference[SH489]
+	demandMakeDifference[SH490]
+	demandMakeDifference[SH497]
+	demandMakeDifference[SH500]
+	demandMakeDifference[SH501]
+	demandMakeDifference[SH508]
+	demandMakeDifference[SH511]
+	demandMakeDifference[SH514]
+	demandMakeDifference[SH516]
+	demandMakeDifference[SH532]
+	demandMakeDifference[SH535]
+	demandMakeDifference[SH556]
+	demandMakeDifference[SH557]
+	rawMaterialSupply[1]
+	rawMaterialSupply[2]
+	rawMaterialSupply[3]
+	rawMaterialSupply[4]
+	rawMaterialSupply[5]
+	rawMaterialSupply[6]
+	rawMaterialSupply[7]
+	rawMaterialSupply[8]
+	rawMaterialSupply[9]
+	rawMaterialSupply[10]
+	rawMaterialSupply[11]
+	rawMaterialSupply[12]
+	rawMaterialSupply[13]
+	rawMaterialSupply[14]
+	rawMaterialSupply[15]
+	rawMaterialSupply[16]
+	rawMaterialSupply[17]
+	rawMaterialSupply[18]
+	rawMaterialSupply[19]
+	rawMaterialSupply[20]
+	rawMaterialSupply[21]
+	rawMaterialSupply[22]
+	rawMaterialSupply[23]
+	rawMaterialSupply[24]
+	rawMaterialSupply[25]
+	rawMaterialSupply[26]
+	rawMaterialSupply[27]
+	rawMaterialSupply[28]
+	rawMaterialSupply[29]
+	rawMaterialSupply[30]
+	rawMaterialSupply[31]
+	rawMaterialSupply[32]
+	rawMaterialSupply[33]
+	rawMaterialSupply[34]
+	rawMaterialSupply[35]
+	rawMaterialSupply[36]
+	rawMaterialSupply[37]
+	rawMaterialSupply[38]
+	rawMaterialSupply[39]
+	rawMaterialSupply[40]
+	rawMaterialSupply[41]
+	rawMaterialSupply[42]
+	rawMaterialSupply[43]
+	rawMaterialSupply[44]
+	rawMaterialSupply[45]
+	rawMaterialSupply[46]
+	rawMaterialSupply[47]
+	rawMaterialSupply[48]
+	rawMaterialSupply[49]
+	rawMaterialSupply[50]
+	rawMaterialSupply[51]
+	rawMaterialSupply[52]
+	rawMaterialSupply[53]
+	rawMaterialSupply[54]
+	rawMaterialSupply[55]
+	rawMaterialSupply[56]
+	rawMaterialSupply[57]
+	rawMaterialSupply[58]
+	rawMaterialSupply[59]
+	rawMaterialSupply[60]
+	rawMaterialSupply[61]
+	rawMaterialSupply[62]
+	rawMaterialSupply[63]
+	rawMaterialSupply[64]
+	rawMaterialSupply[65]
+	rawMaterialSupply[66]
+	rawMaterialSupply[67]
+	rawMaterialSupply[68]
+	rawMaterialSupply[69]
+	rawMaterialSupply[70]
+	rawMaterialSupply[71]
+	rawMaterialSupply[72]
+	rawMaterialSupply[73]
+	rawMaterialSupply[74]
+	rawMaterialSupply[75]
+	rawMaterialSupply[76]
+	rawMaterialSupply[77]
+	rawMaterialSupply[78]
+	rawMaterialSupply[79]
+	rawMaterialSupply[80]
+	rawMaterialSupply[81]
+	rawMaterialSupply[82]
+	rawMaterialSupply[83]
+	rawMaterialSupply[84]
+	rawMaterialSupply[85]
+	rawMaterialSupply[86]
+	rawMaterialSupply[87]
+	rawMaterialSupply[88]
+	rawMaterialSupply[89]
+	rawMaterialSupply[90]
+	rawMaterialSupply[91]
+	rawMaterialSupply[92]
+	rawMaterialSupply[93]
+	rawMaterialSupply[94]
+	rawMaterialSupply[95]
+	rawMaterialSupply[96]
+	rawMaterialSupply[97]
+	rawMaterialSupply[98]
+	rawMaterialSupply[99]
+	rawMaterialSupply[100]
+	rawMaterialSupply[101]
+	rawMaterialSupply[102]
+	rawMaterialSupply[103]
+	rawMaterialSupply[104]
+	rawMaterialSupply[105]
+	rawMaterialSupply[106]
+	rawMaterialSupply[107]
+	rawMaterialSupply[108]
+	rawMaterialSupply[109]
+	rawMaterialSupply[110]
+	rawMaterialSupply[111]
+	rawMaterialSupply[112]
+	rawMaterialSupply[113]
+	rawMaterialSupply[114]
+	rawMaterialSupply[115]
+	rawMaterialSupply[116]
+	rawMaterialSupply[117]
+	rawMaterialSupply[118]
+	rawMaterialSupply[119]
+	rawMaterialSupply[120]
+	rawMaterialSupply[121]
+	rawMaterialSupply[122]
+	rawMaterialSupply[123]
+	rawMaterialSupply[124]
+	rawMaterialSupply[125]
+	rawMaterialSupply[126]
+	rawMaterialSupply[127]
+	rawMaterialSupply[128]
+	rawMaterialSupply[129]
+	rawMaterialSupply[130]
+	rawMaterialSupply[131]
+	rawMaterialSupply[132]
+	rawMaterialSupply[133]
+	rawMaterialSupply[134]
+	rawMaterialSupply[135]
+	rawMaterialSupply[136]
+	rawMaterialSupply[137]
+	rawMaterialSupply[138]
+	rawMaterialSupply[139]
+	rawMaterialSupply[140]
+	rawMaterialSupply[141]
+	rawMaterialSupply[142]
+	rawMaterialSupply[143]
+	rawMaterialSupply[144]
+	rawMaterialSupply[145]
+	rawMaterialSupply[146]
+	rawMaterialSupply[147]
+	rawMaterialSupply[148]
+	rawMaterialSupply[149]
+	rawMaterialSupply[150]
+	rawMaterialSupply[151]
+	rawMaterialSupply[152]
+	rawMaterialSupply[153]
+	rawMaterialSupply[154]
+	rawMaterialSupply[155]
+	rawMaterialSupply[156]
+	rawMaterialSupply[157]
+	rawMaterialSupply[158]
+	rawMaterialSupply[159]
+	rawMaterialSupply[160]
+	rawMaterialSupply[161]
+	rawMaterialSupply[162]
+	rawMaterialSupply[163]
+	rawMaterialSupply[164]
+	rawMaterialSupply[165]
+	nonneg[SH001]
+	nonneg[SH003]
+	nonneg[SH004]
+	nonneg[SH006]
+	nonneg[SH007]
+	nonneg[SH008]
+	nonneg[SH010]
+	nonneg[SH014]
+	nonneg[SH015]
+	nonneg[SH016]
+	nonneg[SH017]
+	nonneg[SH020]
+	nonneg[SH021]
+	nonneg[SH022]
+	nonneg[SH023]
+	nonneg[SH026]
+	nonneg[SH028]
+	nonneg[SH030]
+	nonneg[SH033]
+	nonneg[SH035]
+	nonneg[SH036]
+	nonneg[SH037]
+	nonneg[SH043]
+	nonneg[SH046]
+	nonneg[SH049]
+	nonneg[SH051]
+	nonneg[SH052]
+	nonneg[SH054]
+	nonneg[SH055]
+	nonneg[SH056]
+	nonneg[SH059]
+	nonneg[SH066]
+	nonneg[SH067]
+	nonneg[SH068]
+	nonneg[SH069]
+	nonneg[SH070]
+	nonneg[SH074]
+	nonneg[SH075]
+	nonneg[SH079]
+	nonneg[SH084]
+	nonneg[SH085]
+	nonneg[SH086]
+	nonneg[SH089]
+	nonneg[SH091]
+	nonneg[SH092]
+	nonneg[SH097]
+	nonneg[SH098]
+	nonneg[SH099]
+	nonneg[SH100]
+	nonneg[SH101]
+	nonneg[SH102]
+	nonneg[SH103]
+	nonneg[SH104]
+	nonneg[SH107]
+	nonneg[SH108]
+	nonneg[SH109]
+	nonneg[SH111]
+	nonneg[SH112]
+	nonneg[SH114]
+	nonneg[SH115]
+	nonneg[SH120]
+	nonneg[SH122]
+	nonneg[SH123]
+	nonneg[SH124]
+	nonneg[SH125]
+	nonneg[SH128]
+	nonneg[SH129]
+	nonneg[SH132]
+	nonneg[SH135]
+	nonneg[SH136]
+	nonneg[SH137]
+	nonneg[SH138]
+	nonneg[SH139]
+	nonneg[SH140]
+	nonneg[SH141]
+	nonneg[SH143]
+	nonneg[SH145]
+	nonneg[SH147]
+	nonneg[SH148]
+	nonneg[SH151]
+	nonneg[SH152]
+	nonneg[SH155]
+	nonneg[SH156]
+	nonneg[SH157]
+	nonneg[SH158]
+	nonneg[SH159]
+	nonneg[SH160]
+	nonneg[SH161]
+	nonneg[SH162]
+	nonneg[SH163]
+	nonneg[SH164]
+	nonneg[SH166]
+	nonneg[SH167]
+	nonneg[SH169]
+	nonneg[SH170]
+	nonneg[SH171]
+	nonneg[SH174]
+	nonneg[SH175]
+	nonneg[SH177]
+	nonneg[SH180]
+	nonneg[SH181]
+	nonneg[SH182]
+	nonneg[SH183]
+	nonneg[SH189]
+	nonneg[SH190]
+	nonneg[SH192]
+	nonneg[SH193]
+	nonneg[SH196]
+	nonneg[SH198]
+	nonneg[SH199]
+	nonneg[SH200]
+	nonneg[SH202]
+	nonneg[SH204]
+	nonneg[SH206]
+	nonneg[SH208]
+	nonneg[SH211]
+	nonneg[SH212]
+	nonneg[SH214]
+	nonneg[SH215]
+	nonneg[SH216]
+	nonneg[SH218]
+	nonneg[SH219]
+	nonneg[SH220]
+	nonneg[SH228]
+	nonneg[SH229]
+	nonneg[SH231]
+	nonneg[SH237]
+	nonneg[SH242]
+	nonneg[SH243]
+	nonneg[SH245]
+	nonneg[SH246]
+	nonneg[SH250]
+	nonneg[SH251]
+	nonneg[SH252]
+	nonneg[SH257]
+	nonneg[SH258]
+	nonneg[SH259]
+	nonneg[SH263]
+	nonneg[SH264]
+	nonneg[SH266]
+	nonneg[SH267]
+	nonneg[SH268]
+	nonneg[SH271]
+	nonneg[SH272]
+	nonneg[SH275]
+	nonneg[SH278]
+	nonneg[SH280]
+	nonneg[SH283]
+	nonneg[SH285]
+	nonneg[SH291]
+	nonneg[SH293]
+	nonneg[SH294]
+	nonneg[SH296]
+	nonneg[SH297]
+	nonneg[SH301]
+	nonneg[SH302]
+	nonneg[SH303]
+	nonneg[SH304]
+	nonneg[SH305]
+	nonneg[SH306]
+	nonneg[SH309]
+	nonneg[SH310]
+	nonneg[SH311]
+	nonneg[SH315]
+	nonneg[SH318]
+	nonneg[SH319]
+	nonneg[SH321]
+	nonneg[SH323]
+	nonneg[SH324]
+	nonneg[SH327]
+	nonneg[SH330]
+	nonneg[SH332]
+	nonneg[SH333]
+	nonneg[SH335]
+	nonneg[SH336]
+	nonneg[SH337]
+	nonneg[SH339]
+	nonneg[SH343]
+	nonneg[SH344]
+	nonneg[SH346]
+	nonneg[SH350]
+	nonneg[SH351]
+	nonneg[SH353]
+	nonneg[SH354]
+	nonneg[SH355]
+	nonneg[SH357]
+	nonneg[SH358]
+	nonneg[SH360]
+	nonneg[SH363]
+	nonneg[SH364]
+	nonneg[SH368]
+	nonneg[SH370]
+	nonneg[SH371]
+	nonneg[SH374]
+	nonneg[SH375]
+	nonneg[SH376]
+	nonneg[SH380]
+	nonneg[SH382]
+	nonneg[SH385]
+	nonneg[SH386]
+	nonneg[SH387]
+	nonneg[SH388]
+	nonneg[SH389]
+	nonneg[SH390]
+	nonneg[SH392]
+	nonneg[SH393]
+	nonneg[SH394]
+	nonneg[SH396]
+	nonneg[SH397]
+	nonneg[SH398]
+	nonneg[SH400]
+	nonneg[SH401]
+	nonneg[SH403]
+	nonneg[SH404]
+	nonneg[SH405]
+	nonneg[SH406]
+	nonneg[SH408]
+	nonneg[SH409]
+	nonneg[SH413]
+	nonneg[SH414]
+	nonneg[SH416]
+	nonneg[SH422]
+	nonneg[SH424]
+	nonneg[SH426]
+	nonneg[SH428]
+	nonneg[SH431]
+	nonneg[SH433]
+	nonneg[SH434]
+	nonneg[SH436]
+	nonneg[SH437]
+	nonneg[SH439]
+	nonneg[SH440]
+	nonneg[SH441]
+	nonneg[SH442]
+	nonneg[SH443]
+	nonneg[SH446]
+	nonneg[SH448]
+	nonneg[SH450]
+	nonneg[SH452]
+	nonneg[SH454]
+	nonneg[SH460]
+	nonneg[SH461]
+	nonneg[SH463]
+	nonneg[SH475]
+	nonneg[SH480]
+	nonneg[SH481]
+	nonneg[SH484]
+	nonneg[SH485]
+	nonneg[SH486]
+	nonneg[SH488]
+	nonneg[SH493]
+	nonneg[SH495]
+	nonneg[SH496]
+	nonneg[SH502]
+	nonneg[SH503]
+	nonneg[SH504]
+	nonneg[SH505]
+	nonneg[SH506]
+	nonneg[SH509]
+	nonneg[SH510]
+	nonneg[SH515]
+	nonneg[SH517]
+	nonneg[SH518]
+	nonneg[SH519]
+	nonneg[SH522]
+	nonneg[SH526]
+	nonneg[SH528]
+	nonneg[SH529]
+	nonneg[SH530]
+	nonneg[SH531]
+	nonneg[SH533]
+	nonneg[SH538]
+	nonneg[SH539]
+	nonneg[SH541]
+	nonneg[SH542]
+	nonneg[SH544]
+	nonneg[SH545]
+	nonneg[SH548]
+	nonneg[SH550]
+	nonneg[SH551]
+	nonneg[SH554]
+	nonneg[SH555]

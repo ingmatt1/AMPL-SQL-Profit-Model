@@ -1,0 +1,73 @@
+#Matthew_Ing_ingmatt1_1005057260
+#Scott_Oxholm_oxholmsc_1005106788
+
+reset;
+
+model 'labprojectwarporiginal.mod';
+data 'labprojectwarp.dat';
+
+option solver gurobi;
+
+#solve the model given the data using gurobi
+solve;
+
+printf '(a) Please see attached .mod and .run files\n\n'>> 'warporiginal.out';
+
+#the optimal profit given the model developed
+printf '(b) Optimal objective function value: %.3lf\n\n', profit >> 'warporiginal.out';
+
+#the optimal amount of each shoe that should be produced for each design
+printf '(c)(i) Optimal x values: \n\n' >> 'warporiginal.out';
+for{i in Product_Num}
+	printf '\tx[%s] = %.5lf\n', i, x[i] >>warporiginal.out;
+
+#what warehouses are being used
+printf '(c)(ii) Optimal L values: \n\n' >> 'warporiginal.out';
+for{l in Warehouse_Num}
+	printf '\tL[%s] = %d\n', l, L[l] >>warporiginal.out;
+
+#list of binding constraints
+printf '\n(d) The binding constraints are: \n\n' >> warporiginal.out;
+
+for {i in Product_Num}
+{
+	if demandMakeDifference[i].slack <= 1E-4 then {
+		printf'\tdemandMakeDifference[%s]\n', i >>warporiginal.out
+	};
+}
+
+for{j in RM_Num}
+{
+	if rawMaterialSupply[j].slack <= 1E-4 then {
+		printf'\trawMaterialSupply[%d]\n', j >>warporiginal.out
+	};
+}
+
+
+if locationCapacity.slack <= 1E-4 then {
+			printf'\tlocationCapacity\n' >>warporiginal.out
+	};
+
+
+
+for{k in Machine_Num}{
+	if machineOperator[k].slack <= 1E-4 then {
+		printf'\tmachineOperator[%d]\n' >>warporiginal.out
+	};
+}
+
+
+if rawMaterialLimit.slack <= 1E-4 then {
+		printf'\trawMaterialLimit\n'>> warporiginal.out
+	};
+
+for {i in Product_Num}
+{
+	if nonneg[i].slack <= 1E-4 then {
+		printf'\tnonneg[%s]\n', i >>warporiginal.out
+	};
+}
+
+
+
+

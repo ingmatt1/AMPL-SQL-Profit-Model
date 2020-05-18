@@ -1,0 +1,24 @@
+table Product_Master IN "ODBC" 'S:\ECFPC\WARP2011W.mdb' "Product_Master": 
+	Product_Num->[Product_Num], Product_Name, Sales_Price;
+read table Product_Master; 
+
+table February_Demand IN "ODBC" 'S:\ECFPC\WARP2011W.mdb' "SQL=SELECT Product_Num, 2*Avg(Demand) AS Avg_Demand FROM Product_Demand AS PD WHERE PD.Month=2 GROUP BY Product_Num;":
+	[Product_Num], Avg_Demand;
+read table February_Demand;
+
+table RM_BOM_Master IN "ODBC" 'S:\ECFPC\WARP2011W.mdb' "SQL=SELECT Product_Master.Product_Num, SUM(RM_Master.Cost) AS RM_Cost FROM (SELECT * FROM Product_Master INNER JOIN BOM ON Product_Master.Product_Num = BOM.Product_Num) PBOM INNER JOIN RM_Master ON RM_Master.RM_Num = PBOM.RM_Num Group By Product_Master.Product_Num": 
+	[Product_Num], RM_Cost;
+read table RM_BOM_Master; 
+
+table Warehouse_Master IN "ODBC" 'S:\ECFPC\WARP2011W.mdb' "Warehouse_Master": 
+	Warehouse_Num -> [Warehouse_Num],Location_Capacity ~ Capacity, Location_Cost~Op_Cost;
+read table Warehouse_Master; 
+
+table Machine_Master IN "ODBC" 'S:\ECFPC\WARP2011W.mdb' "Machine_Master": 
+	Machine_Num -> [Machine_Num], Operating_TimeCost~ OpCost_per_min;
+read table Machine_Master; 
+
+table Machine_Assign IN "ODBC" 'S:\ECFPC\WARP2011W.mdb' "SQL=SELECT Product_Num, SUM(Avg_Duration) AS Total_Duration FROM Machine_Assign GROUP BY Product_Num;": 
+	[Product_Num], Total_Duration;
+read table Machine_Assign; 
+
