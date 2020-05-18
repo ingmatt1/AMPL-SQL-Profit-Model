@@ -1,1 +1,1 @@
-# AMPL-Access-Profit-Model
+# AMPL-Profit-Model
