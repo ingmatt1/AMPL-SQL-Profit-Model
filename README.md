@@ -11,3 +11,5 @@ Information for some of the constraints and profit function are as follows:
 * Each machine has to be operated by one worker.
 
 The “WARP2011” database contains all the product, raw material, machine, store, and warehouse information which was extracted using AMPL and used to create the profit model. 
+
+Project made by contributions from Matthew Ing and Scott Oxholm
