@@ -1,4 +1,4 @@
-# AMPL-Profit-Model
+# AMPL-SQL-Profit-Model
 
 Using a gurobi solver in AMPL, an Integer Program was designed to maximize profit. Data for the model was extracted from Access using SQL in the AMPL .dat file. The .mod file builds the model’s variables, constraints, and profit function. The .run file runs the model against the .dat file and outputs the optimal product production plan to maximize profit. It also outputs the optimal profit, reduced cost for variables, shadow prices for constraints, and binding constraints. 
 The program accounts for sales and costs for factors such as wages and raw materials. Additional constraints such as warehouse capacity, or maximum machine operating time were also included. 
